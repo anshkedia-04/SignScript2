@@ -15,6 +15,5 @@ This project is a **deep learning-based Sign Language Detection System** that re
 🔹 **TensorFlow/Keras** – Deep learning framework  
 🔹 **OpenCV** – Image processing & real-time video capture  
 🔹 **NumPy & Pandas** – Data handling  
-🔹 **Matplotlib & Seaborn** – Data visualization  
 
 ![image](https://github.com/user-attachments/assets/25ddb1b5-828d-417a-bafd-f454ed37efd1)
